@@ -1,0 +1,166 @@
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\csc.exe
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\csc.exe.config
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\csc.rsp
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\csi.exe
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\csi.exe.config
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\csi.rsp
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Console.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\vbc.exe
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\vbc.rsp
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Project\PDA_GA_Service\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\PDA_GA_Service\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\Dapper.Contrib.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\Dapper.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.Helpers.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.Mvc.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.Optimization.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.Razor.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\WebGrease.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\Dapper.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\Dapper.Contrib.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.Helpers.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.Mvc.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.Optimization.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.Razor.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Project\PDA_GA_Service\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Project\PDA_GA_Service\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\PDA_GA_Service\WebApplication1\obj\Debug\PDA_SERVICE.csproj.AssemblyReference.cache
+D:\Project\PDA_GA_Service\WebApplication1\obj\Debug\PDA_SERVICE.csproj.CoreCompileInputs.cache
+D:\Project\PDA_GA_Service\WebApplication1\obj\Debug\PDA_SERV.5A641129.Up2Date
+D:\Project\PDA_GA_Service\WebApplication1\bin\PDAService.dll.config
+D:\Project\PDA_GA_Service\WebApplication1\bin\PDAService.dll
+D:\Project\PDA_GA_Service\WebApplication1\bin\PDAService.pdb
+D:\Project\PDA_GA_Service\WebApplication1\obj\Debug\PDAService.dll
+D:\Project\PDA_GA_Service\WebApplication1\obj\Debug\PDAService.pdb
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\PDAService.dll.config
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\PDAService.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\PDAService.pdb
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\csc.exe
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\csc.exe.config
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\csc.rsp
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\csi.exe
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\csi.exe.config
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\csi.rsp
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Console.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\vbc.exe
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\vbc.rsp
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Dapper.Contrib.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Dapper.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Helpers.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Mvc.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Optimization.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Razor.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\WebGrease.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Dapper.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Dapper.Contrib.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Helpers.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Mvc.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Optimization.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Razor.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Debug\PDA_SERVICE.csproj.AssemblyReference.cache
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Debug\PDA_SERVICE.csproj.CoreCompileInputs.cache
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Debug\PDA_SERVICE.csproj.CopyComplete
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Debug\PDAService.dll
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Debug\PDAService.pdb
