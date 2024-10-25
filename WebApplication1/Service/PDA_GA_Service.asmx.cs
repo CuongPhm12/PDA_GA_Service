@@ -55,5 +55,36 @@ namespace PDAService.Service
                 Context.Response.Write(errorJson);
             }
         }
+
+        [WebMethod]
+        [ScriptMethod(UseHttpGet = false, ResponseFormat = ResponseFormat.Json)]
+        public void PdaInsertHistory(string model, string partNo, string refNo)
+        {
+            // Log the received parameters
+            System.Diagnostics.Debug.WriteLine($"Received model: {model}, partNo: {partNo}, refNo: {refNo}");
+
+            try
+            {
+                // Call the GCHelper method to insert into the history table
+                var result = new GCHelper().writeHistory(model, partNo, refNo);
+
+                // Prepare JSON response
+                string jsonResponse = JsonConvert.SerializeObject(new { status = result });
+                Context.Response.Clear();
+                Context.Response.ContentType = "application/json";
+                Context.Response.Write(jsonResponse);
+            }
+            catch (Exception ex)
+            {
+                // Log the error
+                System.Diagnostics.Debug.WriteLine($"Error: {ex.Message}");
+
+                // Return error as JSON
+                string errorJson = JsonConvert.SerializeObject(new { error = ex.Message });
+                Context.Response.Clear();
+                Context.Response.ContentType = "application/json";
+                Context.Response.Write(errorJson);
+            }
+        }
     }
 }
