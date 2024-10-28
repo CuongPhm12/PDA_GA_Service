@@ -81,6 +81,8 @@ D:\Project\PDA_GA_Service\WebApplication1\bin\PDAService.dll
 D:\Project\PDA_GA_Service\WebApplication1\bin\PDAService.pdb
 D:\Project\PDA_GA_Service\WebApplication1\obj\Debug\PDAService.dll
 D:\Project\PDA_GA_Service\WebApplication1\obj\Debug\PDAService.pdb
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Dapper.xml
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Newtonsoft.Json.xml
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\PDAService.dll.config
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\PDAService.dll
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\PDAService.pdb
@@ -147,7 +149,6 @@ D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.dll
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Razor.dll
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\WebGrease.dll
-D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Dapper.xml
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Dapper.Contrib.xml
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Helpers.xml
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.Mvc.xml
@@ -156,7 +157,6 @@ D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.xml
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Deployment.xml
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\System.Web.WebPages.Razor.xml
-D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Newtonsoft.Json.xml
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Antlr3.Runtime.pdb
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Debug\PDA_SERVICE.csproj.AssemblyReference.cache

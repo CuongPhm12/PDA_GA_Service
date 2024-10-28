@@ -25,7 +25,7 @@ namespace PDAService.Service
     {
         [WebMethod]
         [ScriptMethod(UseHttpGet = true, ResponseFormat = ResponseFormat.Json)]
-        public void PdaGetPartGC(string modelId, string partNo)
+        public void PdaGetPartGC(string modelId, string partNo, string refNo)
         {
             //Context.Response.Clear();
             //Context.Response.ContentType = "application/json";
@@ -33,8 +33,8 @@ namespace PDAService.Service
             try
             {
 
-            System.Diagnostics.Debug.WriteLine($"Received modelId: {modelId}, partNo: {partNo}");
-            var data = new GCHelper().PdaGetPartGC(modelId, partNo);
+            System.Diagnostics.Debug.WriteLine($"Received modelId: {modelId}, partNo: {partNo}, refNo: {refNo}");
+            var data = new GCHelper().PdaGetPartGC(modelId, partNo, refNo);
             string json = JsonConvert.SerializeObject(data, Formatting.Indented);
                 //return json;
                 // Return the JSON with the correct content type
@@ -57,7 +57,7 @@ namespace PDAService.Service
         }
 
         [WebMethod]
-        [ScriptMethod(UseHttpGet = false, ResponseFormat = ResponseFormat.Json)]
+        [ScriptMethod(UseHttpGet = true, ResponseFormat = ResponseFormat.Json)]
         public void PdaInsertHistory(string model, string partNo, string refNo)
         {
             // Log the received parameters
@@ -65,11 +65,15 @@ namespace PDAService.Service
 
             try
             {
-                // Call the GCHelper method to insert into the history table
-                var result = new GCHelper().writeHistory(model, partNo, refNo);
+ 
+                var pStatus = new GCHelper().writeHistory(model, partNo, refNo);
+                // Log or debug output for verification
+                System.Diagnostics.Debug.WriteLine($"Stored procedure output @pStatus: {pStatus}");
 
-                // Prepare JSON response
-                string jsonResponse = JsonConvert.SerializeObject(new { status = result });
+                // Create a JSON response with the status
+                var response = new { pStatus = pStatus };
+                string jsonResponse = JsonConvert.SerializeObject(response,Formatting.Indented);
+
                 Context.Response.Clear();
                 Context.Response.ContentType = "application/json";
                 Context.Response.Write(jsonResponse);
