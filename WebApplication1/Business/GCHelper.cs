@@ -51,7 +51,11 @@ namespace PDAService.Business
         {
             return SQLHelper.ExecProcedureDataAsDataTable("PDA_GetPart", new { @model_id = modelId, @part_no = partNo, @ref_no= refNo });
         }
-
-    
+        public DataTable Get_PartNo_NotChecked(string modelId, string refNo)
+        {
+            return SQLHelper.ExecProcedureDataAsDataTable("Get_PartNo_NotChecked", new { @model_id = modelId, @ref_no = refNo });
+        }
     }
+  
+
 }
