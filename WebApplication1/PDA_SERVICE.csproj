@@ -126,9 +126,11 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Business\Helper_17.cs" />
     <Compile Include="Business\GCHelper.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="DAL\ConfigDatabase.cs" />
+    <Compile Include="DAL\SQLHelper_17.cs" />
     <Compile Include="DAL\SQLHelper.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
