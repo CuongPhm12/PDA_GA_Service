@@ -27,13 +27,14 @@ namespace PDAService.Business
         //    string result = SQLHelper.ExecProcedureDataFistOrDefault<string>("MI_Master_History_Insert", parameters);
         //    return parameters.pStatus;
         //}
-        public string writeHistory(string model, string partNo, string refNo)
+        public string writeHistory(string model, string partNo, string refNo, string wo)
         {
             // Initialize the DynamicParameters object
             var parameters = new DynamicParameters();
             parameters.Add("@model", model, DbType.String, ParameterDirection.Input);
             parameters.Add("@partNo", partNo, DbType.String, ParameterDirection.Input);
             parameters.Add("@refNo", refNo, DbType.String, ParameterDirection.Input);
+            parameters.Add("@wo", wo, DbType.String, ParameterDirection.Input);
             parameters.Add("@pStatus", dbType: DbType.String, direction: ParameterDirection.Output, size: 12);
 
             using (SqlConnection sqlConnection = new SqlConnection(SQLHelper.CONNECTION_STRINGS))
@@ -42,6 +43,28 @@ namespace PDAService.Business
 
                 // Execute the stored procedure
                 sqlConnection.Execute("MI_Master_History_Insert", parameters, commandType: CommandType.StoredProcedure);
+
+                // Retrieve the output parameter value
+                return parameters.Get<string>("@pStatus");
+            }
+        }
+        public string writeHistory_ver_new_1(string model, string partNo, string refNo, string wo, int qty)
+        {
+            // Initialize the DynamicParameters object
+            var parameters = new DynamicParameters();
+            parameters.Add("@model", model, DbType.String, ParameterDirection.Input);
+            parameters.Add("@partNo", partNo, DbType.String, ParameterDirection.Input);
+            parameters.Add("@refNo", refNo, DbType.String, ParameterDirection.Input);
+            parameters.Add("@wo", wo, DbType.String, ParameterDirection.Input);
+            parameters.Add("@qty", qty, DbType.Int16, ParameterDirection.Input);
+            parameters.Add("@pStatus", dbType: DbType.String, direction: ParameterDirection.Output, size: 12);
+
+            using (SqlConnection sqlConnection = new SqlConnection(SQLHelper.CONNECTION_STRINGS))
+            {
+                sqlConnection.Open();
+
+                // Execute the stored procedure
+                sqlConnection.Execute("MI_Master_History_Insert_ver_new_1", parameters, commandType: CommandType.StoredProcedure);
 
                 // Retrieve the output parameter value
                 return parameters.Get<string>("@pStatus");

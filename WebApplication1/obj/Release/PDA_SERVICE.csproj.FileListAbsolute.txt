@@ -161,6 +161,6 @@ D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Antlr3.
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Release\PDA_SERVICE.csproj.AssemblyReference.cache
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Release\PDA_SERVICE.csproj.CoreCompileInputs.cache
-D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Release\PDA_SERVICE.csproj.CopyComplete
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Release\PDAService.dll
 D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Release\PDAService.pdb
+D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\obj\Release\PDA_SERV.5A641129.Up2Date

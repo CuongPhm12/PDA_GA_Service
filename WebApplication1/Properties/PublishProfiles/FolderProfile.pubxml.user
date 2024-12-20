@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>D:\Cuong 052024\Projects\Task Project\PDA_GA_Service\WebApplication1\bin\app.publish\</_PublishTargetUrl>
-    <History>True|2024-11-11T04:18:23.4967218Z;True|2024-11-11T11:18:09.7528392+07:00;True|2024-11-07T18:19:13.9964577+07:00;True|2024-10-31T10:51:31.1637686+07:00;True|2024-10-28T15:08:04.4120418+07:00;True|2024-10-17T14:03:41.5236050+07:00;True|2024-10-17T09:46:44.5186671+07:00;True|2024-09-28T17:40:14.5456788+07:00;True|2024-09-28T15:24:16.4024129+07:00;</History>
+    <History>True|2024-12-20T03:18:58.3135386Z||;True|2024-12-19T15:54:19.3363070+07:00||;True|2024-12-04T13:17:15.8167141+07:00||;True|2024-12-04T13:13:44.0644431+07:00||;True|2024-11-11T11:18:23.4967218+07:00||;True|2024-11-11T11:18:09.7528392+07:00||;True|2024-11-07T18:19:13.9964577+07:00||;True|2024-10-31T10:51:31.1637686+07:00||;True|2024-10-28T15:08:04.4120418+07:00||;True|2024-10-17T14:03:41.5236050+07:00||;True|2024-10-17T09:46:44.5186671+07:00||;True|2024-09-28T17:40:14.5456788+07:00||;True|2024-09-28T15:24:16.4024129+07:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -31,10 +31,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/16/2024 16:22:31</publishTime>
     </File>
     <File Include="bin/PDAService.dll">
-      <publishTime>11/11/2024 11:18:22</publishTime>
+      <publishTime>12/20/2024 10:18:57</publishTime>
     </File>
     <File Include="bin/PDAService.pdb">
-      <publishTime>11/11/2024 11:18:22</publishTime>
+      <publishTime>12/20/2024 10:18:57</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>10/16/2024 16:22:26</publishTime>
